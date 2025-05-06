@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="db_name" table="x_1634320_db_appro_db_permissions" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>db_name</element>
+            <name>x_1634320_db_appro_db_permissions</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-22 05:30:28</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>db_name</sys_name>
+            <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+            <sys_update_name>sys_choice_x_1634320_db_appro_db_permissions_db_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-22 05:30:28</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

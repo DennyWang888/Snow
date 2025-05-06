@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_1634320_db_appro.dbapr_admin" name="x_1634320_db_appro.dbapr_admin">f300c1bd830522101d0c5730ceaad38d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:41:08</sys_created_on>
+        <sys_id>8ce6b2b1838d22101d0c5730ceaad334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1634320_db_appro.dbapr_admin</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_user_role_contains_8ce6b2b1838d22101d0c5730ceaad334</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:41:08</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="DB Approval Workspace New App Config">b189b6b56a8d221010131cb56be79208</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Dashboards</name>
+        <optional_parameters>sysId,edit,tabSysId,filter,element</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>dashboards</route_type>
+        <screen_type display_value="Dashboards">b98976b56a8d221097cac9ee4d241ffd</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:52:45</sys_created_on>
+        <sys_id>318976b5fa8d2210b26d9893f8dd86fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboards</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_ux_app_route_318976b5fa8d2210b26d9893f8dd86fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:52:45</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=318976b5fa8d2210b26d9893f8dd86fe"/>
+</record_update>

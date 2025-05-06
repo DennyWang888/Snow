@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:41:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f2d632b1738d2210209eb1b006bd1eea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>m2m_app_config_theme_f2d632b1738d2210209eb1b006bd1eea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:41:04</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="">b2d632b1278d2210959d182beaa168eb</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</application>
+        <file_path/>
+        <instance_id>087394aa3bd3dad0a80ce0bf55e45aca</instance_id>
+        <instance_name>dev293140</instance_name>
+        <name>m2m_app_config_theme_f2d632b1738d2210209eb1b006bd1eea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 13:41:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f2d632b1738d2210209eb1b006bd1eea</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package><sys_policy/><sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope><sys_update_name>m2m_app_config_theme_f2d632b1738d2210209eb1b006bd1eea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-22 13:41:04</sys_updated_on><theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme><ux_app_configuration display_value="">b2d632b1278d2210959d182beaa168eb</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>765575968</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3bd18500830122101d0c5730ceaad3b7</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-04-16 18:40:35</sys_created_on>
+        <sys_id>5c69b2b5838d22101d0c5730ceaad394</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1963fe724b80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>1c69b2b51e8d2210ecf2fd44f109ad94</update_guid>
+        <update_guid_history>1c69b2b51e8d2210ecf2fd44f109ad94:765575968</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1469b2b5838d22101d0c5730ceaad395</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:52:05</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>cbb7715918ca445482dcb990a0cca0c4</sys_id>
+        <sys_metadata>f2d632b1738d2210209eb1b006bd1eea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_scope_delete display_value="">3f491eab42c2428f9b4c7de6de9915b9</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_f2d632b1738d2210209eb1b006bd1eea</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_f2d632b1738d2210209eb1b006bd1eea">5c69b2b5838d22101d0c5730ceaad394</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:52:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

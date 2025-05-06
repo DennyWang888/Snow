@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">1180edd8ad11e2103ce9edbf4b9a4e40</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">1980edd89e11e210dfbc114f4554c619</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-30 01:48:41</sys_created_on>
+        <sys_id>5180edd84e11e2106c20dea4e299fb11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_5180edd84e11e2106c20dea4e299fb11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 01:48:41</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

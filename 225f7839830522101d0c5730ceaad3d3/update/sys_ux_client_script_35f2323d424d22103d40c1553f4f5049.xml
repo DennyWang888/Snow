@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Search Page">b9f2323d014d221012066cf9414ca552</macroponent>
+        <name>Search result clicked</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({
+    api,
+    event,
+    imports
+}) {
+    const ACTION_NAME = event.payload.action.actionDispatch;
+    var route = 'landing';
+    if (ACTION_NAME == 'NAVIGATION_CATALOG_KB_ARTICLE' || ACTION_NAME == 'GENIUS_NAVIGATION_CATALOG_KB_ARTICLE') {
+        route = "article";
+        const fields = {
+            "sysId": event.payload.action.actionPayload.sysId
+        };
+        api.emit('NAV_ITEM_SELECTED', {
+            route,
+            fields
+        });
+    } else if (ACTION_NAME == 'NAVIGATION' && event.payload.action.actionPayload.url !== "") {
+        api.emit('NAV_ITEM_SELECTED', {
+            external: {
+                "url": event.payload.action.actionPayload.url
+            }
+        });
+    } else if (ACTION_NAME == 'NAVIGATION') {
+        var table = event.payload.action.actionPayload.table;
+        if (table == "kb_knowledge") {
+            route = "article";
+        } else if (table == "sc_cat_item" && event.payload.action.actionPayload.url == "") {
+            route = "catalog";
+        }
+        const fields = {
+            "sysId": event.payload.action.actionPayload.sysId
+        };
+        api.emit('NAV_ITEM_SELECTED', {
+            route,
+            fields
+        });
+    } else if (ACTION_NAME == 'GENIUS_NAVIGATION_CATALOG_EXTERNAL') {
+        api.emit('NAV_ITEM_SELECTED', {
+            external: {
+                "url": event.payload.action.actionPayload.url
+            }
+        });
+    } else return;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:24:07</sys_created_on>
+        <sys_id>35f2323d424d22103d40c1553f4f5049</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search result clicked</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_ux_client_script_35f2323d424d22103d40c1553f4f5049</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:24:07</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

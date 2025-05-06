@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="db approval">1ce6b2b1838d22101d0c5730ceaad3ae</ais_search_source>
+        <label>db approval</label>
+        <name>db approval</name>
+        <order>100</order>
+        <search_context_config display_value="DB Approval Workspace AI Search Configuration">3ed632b1578d2210cb7fd4eae6dc18e4</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:41:09</sys_created_on>
+        <sys_id>d4e6b2b1838d22101d0c5730ceaad3c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>db approval</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_search_filter_d4e6b2b1838d22101d0c5730ceaad3c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:41:09</sys_updated_on>
+    </sys_search_filter>
+</record_update>

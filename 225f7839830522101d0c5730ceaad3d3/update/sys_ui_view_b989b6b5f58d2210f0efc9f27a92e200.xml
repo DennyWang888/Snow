@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-db-approval-workspace-new-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:52:46</sys_created_on>
+        <sys_id>b989b6b5f58d2210f0efc9f27a92e200</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace DB Approval Workspace New 0</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_ui_view_b989b6b5f58d2210f0efc9f27a92e200</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:52:46</sys_updated_on>
+        <title>Workspace DB Approval Workspace New 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

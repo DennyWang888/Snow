@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1634320_db_appro.validateReason</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>validateReason</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[function validateReason(strReason) {
+
+	if (strReason == "") {
+		return false;
+	}
+	return true;
+
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 07:23:03</sys_created_on>
+        <sys_id>c0a6d0fb834522101d0c5730ceaad3dd</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>validateReason</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_script_include_c0a6d0fb834522101d0c5730ceaad3dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 01:06:54</sys_updated_on>
+    </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>c0a6d0fb834522101d0c5730ceaad3dd</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 07:23:02</sys_created_on>
+        <sys_id>c0e914fb834522101d0c5730ceaad328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 07:23:02</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

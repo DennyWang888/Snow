@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="DELETE">
+        <active>true</active>
+        <configuration display_value="DB Approval Workspace_menu_config">3fd672b1838d22101d0c5730ceaad3f8</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:41:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f7d672b1838d22101d0c5730ceaad3fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>db approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_ux_list_category_f7d672b1838d22101d0c5730ceaad3fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:41:08</sys_updated_on>
+        <title>db approval</title>
+    </sys_ux_list_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</application>
+        <file_path/>
+        <instance_id>087394aa3bd3dad0a80ce0bf55e45aca</instance_id>
+        <instance_name>dev293140</instance_name>
+        <name>sys_ux_list_category_f7d672b1838d22101d0c5730ceaad3fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category"><sys_ux_list_category action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="DB Approval Workspace_menu_config">3fd672b1838d22101d0c5730ceaad3f8</configuration><description/><order>100</order><sys_class_name>sys_ux_list_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 13:41:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f7d672b1838d22101d0c5730ceaad3fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>db approval</sys_name><sys_overrides/><sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package><sys_policy/><sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope><sys_update_name>sys_ux_list_category_f7d672b1838d22101d0c5730ceaad3fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-22 13:41:08</sys_updated_on><title>db approval</title></sys_ux_list_category></record_update>]]></payload>
+        <payload_hash>-757366913</payload_hash>
+        <record_name>db approval</record_name>
+        <reverted_from/>
+        <source>ea5f7839830522101d0c5730ceaad3d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:41:08</sys_created_on>
+        <sys_id>f7d672b1838d22101d0c5730ceaad3fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1965dbb26210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:41:08</sys_updated_on>
+        <type>UX List Category</type>
+        <update_guid>bbd672b1088d221098e1ce5d60c65ffd</update_guid>
+        <update_guid_history>bbd672b1088d221098e1ce5d60c65ffd:-757366913</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:52:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_category">sys_ux_list_category</sys_db_object>
+        <sys_id>3ecf724d8e9649a084671d7d01fa0c31</sys_id>
+        <sys_metadata>f7d672b1838d22101d0c5730ceaad3fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>db approval</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_scope_delete display_value="">3f491eab42c2428f9b4c7de6de9915b9</sys_scope_delete>
+        <sys_update_name>sys_ux_list_category_f7d672b1838d22101d0c5730ceaad3fb</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_category_f7d672b1838d22101d0c5730ceaad3fb">f7d672b1838d22101d0c5730ceaad3fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:52:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

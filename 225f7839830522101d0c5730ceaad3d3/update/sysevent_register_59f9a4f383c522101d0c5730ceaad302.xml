@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <derived_priority>100</derived_priority>
+        <description>record is updated by approver</description>
+        <event_name>x_1634320_db_appro.requestUpdated</event_name>
+        <fired_by>flow</fired_by>
+        <priority>100</priority>
+        <queue/>
+        <suffix>requestUpdated</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 08:35:18</sys_created_on>
+        <sys_id>59f9a4f383c522101d0c5730ceaad302</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1634320_db_appro.requestUpdated</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sysevent_register_59f9a4f383c522101d0c5730ceaad302</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 08:35:18</sys_updated_on>
+        <table>x_1634320_db_appro_db_approval</table>
+    </sysevent_register>
+</record_update>

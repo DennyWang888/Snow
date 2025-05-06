@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">54be62b57f4d2210a26a4ec3142d2f73</dataset>
+        <datasource display_value="My Request - Task Datasource">14be62b5de4d2210ac5c9c1dbe48ce71</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:05:28</sys_created_on>
+        <sys_id>d8be62b5c94d2210c87aa8c2cec3f570</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_d8be62b5c94d2210c87aa8c2cec3f570</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:05:28</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

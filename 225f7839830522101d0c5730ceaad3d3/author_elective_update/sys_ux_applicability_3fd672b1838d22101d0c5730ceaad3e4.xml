@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_1634320_db_appro.Audience for app db-approval/workspace</api_name>
+        <description/>
+        <name>Audience for app db-approval/workspace</name>
+        <role_names/>
+        <roles>f300c1bd830522101d0c5730ceaad38d,8c108131834522101d0c5730ceaad3c6,2f00c93d830522101d0c5730ceaad36a</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:41:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3fd672b1838d22101d0c5730ceaad3e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app db-approval/workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_ux_applicability_3fd672b1838d22101d0c5730ceaad3e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:41:07</sys_updated_on>
+    </sys_ux_applicability>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</application>
+        <file_path/>
+        <instance_id>087394aa3bd3dad0a80ce0bf55e45aca</instance_id>
+        <instance_name>dev293140</instance_name>
+        <name>sys_ux_applicability_3fd672b1838d22101d0c5730ceaad3e4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_1634320_db_appro.Audience for app db-approval/workspace</api_name><description/><name>Audience for app db-approval/workspace</name><role_names/><roles>f300c1bd830522101d0c5730ceaad38d,8c108131834522101d0c5730ceaad3c6,2f00c93d830522101d0c5730ceaad36a</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 13:41:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3fd672b1838d22101d0c5730ceaad3e4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Audience for app db-approval/workspace</sys_name><sys_overrides/><sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package><sys_policy/><sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope><sys_update_name>sys_ux_applicability_3fd672b1838d22101d0c5730ceaad3e4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-22 13:41:07</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+        <payload_hash>-46762767</payload_hash>
+        <record_name>Audience for app db-approval/workspace</record_name>
+        <reverted_from/>
+        <source>ea5f7839830522101d0c5730ceaad3d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:41:08</sys_created_on>
+        <sys_id>7fd672b1838d22101d0c5730ceaad3f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1965dbb25410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:41:08</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>bbd672b18b8d221050c0e9b772929be6</update_guid>
+        <update_guid_history>bbd672b18b8d221050c0e9b772929be6:-46762767</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:52:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>16c8621cd6734280826bfd02d3d18400</sys_id>
+        <sys_metadata>3fd672b1838d22101d0c5730ceaad3e4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app db-approval/workspace</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_scope_delete display_value="">3f491eab42c2428f9b4c7de6de9915b9</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_3fd672b1838d22101d0c5730ceaad3e4</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_3fd672b1838d22101d0c5730ceaad3e4">7fd672b1838d22101d0c5730ceaad3f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:52:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

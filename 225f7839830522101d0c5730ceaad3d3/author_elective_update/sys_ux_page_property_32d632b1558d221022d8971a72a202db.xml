@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>actionConfigId</name>
+        <page display_value="">fed632b1c98d2210c794cfa5dcc196eb</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:41:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>32d632b1558d221022d8971a72a202db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_ux_page_property_32d632b1558d221022d8971a72a202db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:41:04</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1634320_db_appro.fed632b1c98d2210c794cfa5dcc196eb.root.actionConfigId</unique_name>
+        <value>df28e3db0f1210107d20409dc4767ee0</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</application>
+        <file_path/>
+        <instance_id>087394aa3bd3dad0a80ce0bf55e45aca</instance_id>
+        <instance_name>dev293140</instance_name>
+        <name>sys_ux_page_property_32d632b1558d221022d8971a72a202db</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>actionConfigId</name><page display_value="">fed632b1c98d2210c794cfa5dcc196eb</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 13:41:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>32d632b1558d221022d8971a72a202db</sys_id><sys_mod_count>0</sys_mod_count><sys_name>actionConfigId</sys_name><sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package><sys_policy/><sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope><sys_update_name>sys_ux_page_property_32d632b1558d221022d8971a72a202db</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-22 13:41:04</sys_updated_on><type>string</type><unique_name>x_1634320_db_appro.fed632b1c98d2210c794cfa5dcc196eb.root.actionConfigId</unique_name><value>df28e3db0f1210107d20409dc4767ee0</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>992590669</payload_hash>
+        <record_name>actionConfigId</record_name>
+        <reverted_from/>
+        <source>3bd18500830122101d0c5730ceaad3b7</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-04-16 18:40:35</sys_created_on>
+        <sys_id>446972b5838d22101d0c5730ceaad3f1</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1963fe724b80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>046972b57f8d2210271a4891c95b71f1</update_guid>
+        <update_guid_history>046972b57f8d2210271a4891c95b71f1:992590669</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:52:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>3416bac8cc024b198bcbcaf8be0a43f1</sys_id>
+        <sys_metadata>32d632b1558d221022d8971a72a202db</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_scope_delete display_value="">3f491eab42c2428f9b4c7de6de9915b9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_32d632b1558d221022d8971a72a202db</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_32d632b1558d221022d8971a72a202db">446972b5838d22101d0c5730ceaad3f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:52:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

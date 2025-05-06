@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="DB Approval Workspace">fed632b1c98d2210c794cfa5dcc196eb</page>
+        <required_translations>[ {
+  "message" : "New db approval",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:41:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b6d632b1a08d2210fbf23d1e6c5afade</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_ux_page_property_b6d632b1a08d2210fbf23d1e6c5afade</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:41:09</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1634320_db_appro.fed632b1c98d2210c794cfa5dcc196eb.root.global.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New db approval"},"routeInfo":{"route":"record","fields":{"table":"x_1634320_db_appro_db_approval","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1634320_db_appro_db_approval","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=b6d632b1a08d2210fbf23d1e6c5afade"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</application>
+        <file_path/>
+        <instance_id>087394aa3bd3dad0a80ce0bf55e45aca</instance_id>
+        <instance_name>dev293140</instance_name>
+        <name>sys_ux_page_property_b6d632b1a08d2210fbf23d1e6c5afade</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="DB Approval Workspace">fed632b1c98d2210c794cfa5dcc196eb</page><required_translations>[ {
+  "message" : "New db approval",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 13:41:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>b6d632b1a08d2210fbf23d1e6c5afade</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package><sys_policy/><sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope><sys_update_name>sys_ux_page_property_b6d632b1a08d2210fbf23d1e6c5afade</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-22 13:41:09</sys_updated_on><type>json</type><unique_name>x_1634320_db_appro.fed632b1c98d2210c794cfa5dcc196eb.root.global.chrome_tab</unique_name><value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New db approval"},"routeInfo":{"route":"record","fields":{"table":"x_1634320_db_appro_db_approval","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1634320_db_appro_db_approval","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=b6d632b1a08d2210fbf23d1e6c5afade"/></record_update>]]></payload>
+        <payload_hash>-227076089</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>ea5f7839830522101d0c5730ceaad3d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:41:09</sys_created_on>
+        <sys_id>80e6b2b1838d22101d0c5730ceaad35d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1965dbb29f80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:41:09</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>48e6b2b1468d2210bb744d3b55d2675c</update_guid>
+        <update_guid_history>48e6b2b1468d2210bb744d3b55d2675c:-227076089,00e6b2b15d8d2210a02879971ec1ab5b:-1304620888</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:52:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>2a2f9afe45c743d687f14b152ba8ec44</sys_id>
+        <sys_metadata>b6d632b1a08d2210fbf23d1e6c5afade</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_scope_delete display_value="">3f491eab42c2428f9b4c7de6de9915b9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_b6d632b1a08d2210fbf23d1e6c5afade</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_b6d632b1a08d2210fbf23d1e6c5afade">80e6b2b1838d22101d0c5730ceaad35d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:52:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

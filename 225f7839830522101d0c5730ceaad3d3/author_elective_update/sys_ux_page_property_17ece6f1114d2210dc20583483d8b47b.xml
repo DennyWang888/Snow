@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">5fece6f1e84d221022f76b24fb57e872</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Login">dbece6f1744d2210189ca891d606f5a8</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 12:57:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>17ece6f1114d2210dc20583483d8b47b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_ux_page_property_17ece6f1114d2210dc20583483d8b47b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 12:57:45</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1634320_db_appro.5fece6f1e84d221022f76b24fb57e872.route.chrome_header.dbece6f1744d2210189ca891d606f5a8</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</application>
+        <file_path/>
+        <instance_id>087394aa3bd3dad0a80ce0bf55e45aca</instance_id>
+        <instance_name>dev293140</instance_name>
+        <name>sys_ux_page_property_17ece6f1114d2210dc20583483d8b47b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">5fece6f1e84d221022f76b24fb57e872</page><required_translations>[]</required_translations><route display_value="Login">dbece6f1744d2210189ca891d606f5a8</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 12:57:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>17ece6f1114d2210dc20583483d8b47b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package><sys_policy/><sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope><sys_update_name>sys_ux_page_property_17ece6f1114d2210dc20583483d8b47b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-22 12:57:45</sys_updated_on><type>json</type><unique_name>x_1634320_db_appro.5fece6f1e84d221022f76b24fb57e872.route.chrome_header.dbece6f1744d2210189ca891d606f5a8</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>682245267</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>3bd18500830122101d0c5730ceaad3b7</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-04-16 18:40:35</sys_created_on>
+        <sys_id>4a567fe383c122101d0c5730ceaad322</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1963fe724b80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>0a567fe373c12210f39694d32d90d422</update_guid>
+        <update_guid_history>0a567fe373c12210f39694d32d90d422:682245267</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 04:47:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>09eb0bd96fd74732b4cabb7346b4e2b1</sys_id>
+        <sys_metadata>17ece6f1114d2210dc20583483d8b47b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_scope_delete display_value="">3f491eab42c2428f9b4c7de6de9915b9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_17ece6f1114d2210dc20583483d8b47b</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_17ece6f1114d2210dc20583483d8b47b">4a567fe383c122101d0c5730ceaad322</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 04:47:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

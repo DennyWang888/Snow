@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="b0e6f2b1838d22101d0c5730ceaad360" sys_domain="global" table="x_1634320_db_appro_db_approval" version="3" view="workspace-db-approval-workspace-0">
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1634320_db_appro_db_approval</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-22 13:41:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0e6f2b1838d22101d0c5730ceaad360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1634320_db_appro_db_approval</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+            <sys_update_name>sys_ui_section_b0e6f2b1838d22101d0c5730ceaad360</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-22 13:41:12</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace DB Approval Workspace 0" name="workspace-db-approval-workspace-0">bad632b1318d2210f23924c6222d54e3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</application>
+        <file_path/>
+        <instance_id>087394aa3bd3dad0a80ce0bf55e45aca</instance_id>
+        <instance_name>dev293140</instance_name>
+        <name>sys_ui_section_b0e6f2b1838d22101d0c5730ceaad360</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="b0e6f2b1838d22101d0c5730ceaad360" sys_domain="global" table="x_1634320_db_appro_db_approval" version="3" view="workspace-db-approval-workspace-0"><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1634320_db_appro_db_approval</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 13:41:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b0e6f2b1838d22101d0c5730ceaad360</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1634320_db_appro_db_approval</sys_name><sys_overrides/><sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package><sys_policy/><sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope><sys_update_name>sys_ui_section_b0e6f2b1838d22101d0c5730ceaad360</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-22 13:41:12</sys_updated_on><sys_user/><title>true</title><view display_value="Workspace DB Approval Workspace 0" name="workspace-db-approval-workspace-0">bad632b1318d2210f23924c6222d54e3</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>17591625</payload_hash>
+        <record_name>db approval</record_name>
+        <reverted_from/>
+        <source>ea5f7839830522101d0c5730ceaad3d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:41:12</sys_created_on>
+        <sys_id>78e6f2b1838d22101d0c5730ceaad370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1965dbb359e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:41:12</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>fce6f2b1e98d221013a6122b3717826f</update_guid>
+        <update_guid_history>fce6f2b1e98d221013a6122b3717826f:17591625</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 04:45:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>05c1d4e80cad47b080c1bd51acf85510</sys_id>
+        <sys_metadata>b0e6f2b1838d22101d0c5730ceaad360</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1634320_db_appro_db_approval</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_parent display_value="db approval">359101b1834522101d0c5730ceaad369</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_scope_delete display_value="">3f491eab42c2428f9b4c7de6de9915b9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_b0e6f2b1838d22101d0c5730ceaad360</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_b0e6f2b1838d22101d0c5730ceaad360">78e6f2b1838d22101d0c5730ceaad370</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 04:45:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

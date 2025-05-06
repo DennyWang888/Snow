@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_1634320_db_appro_db_permissions">x_1634320_db_appro_db_permissions</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>DBP</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 05:27:51</sys_created_on>
+        <sys_id>0ef505f5834522101d0c5730ceaad322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DBP</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_number_0ef505f5834522101d0c5730ceaad322</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 05:27:51</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</application>
+        <file_path/>
+        <instance_id>087394aa3bd3dad0a80ce0bf55e45aca</instance_id>
+        <instance_name>dev293140</instance_name>
+        <name>sys_number_0ef505f5834522101d0c5730ceaad322</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_1634320_db_appro_db_permissions">x_1634320_db_appro_db_permissions</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>DBP</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-22 05:27:51</sys_created_on><sys_id>0ef505f5834522101d0c5730ceaad322</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DBP</sys_name><sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package><sys_policy/><sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope><sys_update_name>sys_number_0ef505f5834522101d0c5730ceaad322</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-22 05:27:51</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>1350897951</payload_hash>
+        <record_name>DBP</record_name>
+        <reverted_from/>
+        <source>ea5f7839830522101d0c5730ceaad3d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 05:27:51</sys_created_on>
+        <sys_id>c2f505f5834522101d0c5730ceaad352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1965bf789960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 05:27:51</sys_updated_on>
+        <type>Number</type>
+        <update_guid>c6f505f5cc45221020d7f6479199e551</update_guid>
+        <update_guid_history>c6f505f5cc45221020d7f6479199e551:1350897951</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-05 04:38:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>26a0d88eda8a42068f99bf6e5a3312e4</sys_id>
+        <sys_metadata>0ef505f5834522101d0c5730ceaad322</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DBP</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_parent display_value="">66b48df1834522101d0c5730ceaad323</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_scope_delete display_value="">3f491eab42c2428f9b4c7de6de9915b9</sys_scope_delete>
+        <sys_update_name>sys_number_0ef505f5834522101d0c5730ceaad322</sys_update_name>
+        <sys_update_version display_value="sys_number_0ef505f5834522101d0c5730ceaad322">c2f505f5834522101d0c5730ceaad352</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-05 04:38:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

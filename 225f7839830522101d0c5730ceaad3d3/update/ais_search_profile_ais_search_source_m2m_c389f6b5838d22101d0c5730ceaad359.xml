@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <exclude_attachments_in_now_assist_genius_results>false</exclude_attachments_in_now_assist_genius_results>
+        <exclude_in_now_assist_genius_results>false</exclude_in_now_assist_genius_results>
+        <exclude_in_regular_search>false</exclude_in_regular_search>
+        <profile display_value="db-approval-workspace-new Search Profile">f989b6b5758d221034295e719402da08</profile>
+        <search_source display_value="db approval">1ce6b2b1838d22101d0c5730ceaad3ae</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 13:52:48</sys_created_on>
+        <sys_id>c389f6b5838d22101d0c5730ceaad359</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>db-approval-workspace-new Search Profile.db approval</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_c389f6b5838d22101d0c5730ceaad359</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 13:52:48</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

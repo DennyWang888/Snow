@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Landing Page">5580edd81e11e2108343abecd38b473a</macroponent>
+        <name>data_row_3_data</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "{0} out of 5",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    const input = api.data.evam_popular_articles.compositeDataViews;
+    for (var i = 0; i < input.items.length; i++) {
+        var model = input.items[i].propValues;
+        if (model.model.rating != "") {
+            model.detailValueTwo = helpers.translateSync("{0} out of 5", model.model.rating);
+        }
+    }
+    return input;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-30 01:48:42</sys_created_on>
+        <sys_id>dd80edd81411e210c77e8bbc0ed89c2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>data_row_3_data</sys_name>
+        <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
+        <sys_update_name>sys_ux_client_script_dd80edd81411e210c77e8bbc0ed89c2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 01:48:42</sys_updated_on>
+        <target/>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

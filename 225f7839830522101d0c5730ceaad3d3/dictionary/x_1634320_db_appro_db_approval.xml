@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="359101b1834522101d0c5730ceaad369" label="db approval" max_length="40" name="x_1634320_db_appro_db_approval" text_index="true" type="collection">
+        <element choice="3" default="hr" label="db name" mandatory="true" max_length="40" name="db_name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Software Development2" value="sd2"/>
+                <element inactive_on_update="false" label="Human Resources" value="hr"/>
+                <element inactive_on_update="false" label="Software Development1" value="sd1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Reason" max_length="200" name="reason" type="string"/>
+        <element choice="1" label="table name" mandatory="true" max_length="40" name="table_name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="SD1 table3" value="sd13"/>
+                <element inactive_on_update="false" label="HR table1" value="hr1"/>
+                <element inactive_on_update="false" label="SD2 table2" value="sd22"/>
+                <element inactive_on_update="false" label="SD2 table3" value="sd23"/>
+                <element inactive_on_update="false" label="SD2 table1" value="sd21"/>
+                <element inactive_on_update="false" label="SD2 table4" value="sd24"/>
+                <element inactive_on_update="false" label="SD1 table2" value="sd12"/>
+                <element inactive_on_update="false" label="HR table2" value="hr2"/>
+                <element inactive_on_update="false" label="SD1 table1" value="sd11"/>
+            </choice>
+        </element>
+        <element choice="3" default="1" label="access level" mandatory="true" max_length="40" name="access_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Read" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Admin" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Write" sequence="1" value="2"/>
+            </choice>
+        </element>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="encode_utf8=false" label="Requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="pending" value="1"/>
+                <element inactive_on_update="false" label="approved" value="2"/>
+                <element inactive_on_update="false" label="rejected" value="3"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="requester"/>
+        </index>
+    </element>
+</database>
