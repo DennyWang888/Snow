@@ -31,7 +31,7 @@
 
     var rstReason = validateReason(current.reason);
     if (rstReason == false) {
-        gs.addErrorMessage("reason is blank");
+        gs.addErrorMessage("reason is blank, please input it.");
         current.setAbortAction(true);
     }
 
@@ -42,7 +42,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1b49384c839962101d0c5730ceaad37e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Check if Reason is blank</sys_name>
         <sys_overrides/>
         <sys_package display_value="DB Approval" source="x_1634320_db_appro">225f7839830522101d0c5730ceaad3d3</sys_package>
@@ -50,7 +50,7 @@
         <sys_scope display_value="DB Approval">225f7839830522101d0c5730ceaad3d3</sys_scope>
         <sys_update_name>sys_script_1b49384c839962101d0c5730ceaad37e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-29 04:20:18</sys_updated_on>
+        <sys_updated_on>2025-05-07 01:17:13</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
